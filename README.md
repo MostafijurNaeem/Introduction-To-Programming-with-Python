@@ -49,7 +49,7 @@ For any questions or suggestions, please reach out to:
 - **Name**: Md. Mostafijur Rahman Naeem
 - **Email**: mostafijur25@student.sust.edu
 - **GitHub**: https://github.com/MostafijurNaeem
-- **Linkedin: https://www.linkedin.com/in/mostafijurnaeem/
+- **Linkedin**: https://www.linkedin.com/in/mostafijurnaeem/
 
 ---
 
